@@ -4,7 +4,7 @@
       "id": 1,
       "name": "To Kill a Mockingbird",
       "author": "Harper Lee,",
-      "group": null,
+      "group": "Fiction",
       "avatar": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
       "favorites": true
     },
@@ -21,7 +21,7 @@
       "name": "Test Name",
       "author": "Test Testovich",
       "group": "Fairy tale",
-      "avatar": null,
+      "avatar": "Fiction",
       "favorites": true
     },
     {
