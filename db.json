@@ -2,7 +2,7 @@
   "books": [
     {
       "id": 1,
-      "name": "To Kill a Mockingbird",
+      "title": "To Kill a Mockingbird",
       "author": "Harper Lee,",
       "group": "Fiction",
       "img": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "The Great Gatsby",
+      "title": "The Great Gatsby",
       "author": "F. Scott Fitzgerald",
       "group": "Fairy tale",
       "img": "https://cdn.britannica.com/q:60/47/24647-050-E6E25F22/F-Scott-Fitzgerald.jpg",
@@ -18,15 +18,15 @@
     },
     {
       "id": 3,
-      "name": "Test Name",
+      "title": "Test Title",
       "author": "Test Testovich",
       "group": "Fairy tale",
       "img": null,
-      "favorites": true
+      "favorites": false
     },
     {
       "id": 4,
-      "name": "A Passage to India",
+      "title": "A Passage to India",
       "author": "E.M. Forster",
       "group": "Fairy tale",
       "img": "https://cdn.britannica.com/q:60/82/11782-004-305E324D/EM-Forster.jpg",
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "name": "Invisible Man",
+      "title": "Invisible Man",
       "author": "Ralph Ellison",
       "group": "Fairy tale",
       "img": "https://cdn.britannica.com/q:60/11/79911-050-5C091BE6/Ralph-Ellison-1952.jpg",
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "name": "Don Quixote",
+      "title": "Don Quixote",
       "author": "Miguel de Cervantes",
       "group": "Fiction",
       "img": "https://cdn.britannica.com/q:60/12/154812-050-D4E47005/Don-Quixote-Sancho-Panza-illustration-Miguel-de.jpg",
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "name": "Beloved",
+      "title": "Beloved",
       "author": "Toni Morrison",
       "group": "Fiction",
       "img": "https://cdn.britannica.com/q:60/33/129033-050-EE0A3D07/Toni-Morrison-1993.jpg",
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "name": "Mrs. Dalloway",
+      "title": "Mrs. Dalloway",
       "author": "Virginia Woolf",
       "group": "Fantasy",
       "img": "https://cdn.britannica.com/q:60/82/138382-050-2E8FCB26/Virginia-Woolf.jpg",
@@ -66,7 +66,7 @@
     },
     {
       "id": 9,
-      "name": "The Color Purple",
+      "title": "The Color Purple",
       "author": "Virginia Woolf",
       "group": "Poetry",
       "img": "https://cdn.britannica.com/q:60/54/90554-050-7E28D1ED/Oprah-Winfrey-The-Color-Purple.jpg",
