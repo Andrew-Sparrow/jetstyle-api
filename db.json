@@ -6,7 +6,7 @@
       "author": "Harper Lee,",
       "group": "Fiction",
       "img": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
-      "favorites": true
+      "favorite": true
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "author": "F. Scott Fitzgerald",
       "group": "Fairy tale",
       "img": "https://cdn.britannica.com/q:60/47/24647-050-E6E25F22/F-Scott-Fitzgerald.jpg",
-      "favorites": false
+      "favorite": false
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "author": "Test Testovich",
       "group": "Fairy tale",
       "img": null,
-      "favorites": false
+      "favorite": false
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "author": "E.M. Forster",
       "group": "Fairy tale",
       "img": "https://cdn.britannica.com/q:60/82/11782-004-305E324D/EM-Forster.jpg",
-      "favorites": true
+      "favorite": true
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "author": "Ralph Ellison",
       "group": "Fairy tale",
       "img": "https://cdn.britannica.com/q:60/11/79911-050-5C091BE6/Ralph-Ellison-1952.jpg",
-      "favorites": true
+      "favorite": true
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "author": "Miguel de Cervantes",
       "group": "Fiction",
       "img": "https://cdn.britannica.com/q:60/12/154812-050-D4E47005/Don-Quixote-Sancho-Panza-illustration-Miguel-de.jpg",
-      "favorites": false
+      "favorite": false
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "author": "Toni Morrison",
       "group": "Fiction",
       "img": "https://cdn.britannica.com/q:60/33/129033-050-EE0A3D07/Toni-Morrison-1993.jpg",
-      "favorites": false
+      "favorite": false
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "author": "Virginia Woolf",
       "group": "Fantasy",
       "img": "https://cdn.britannica.com/q:60/82/138382-050-2E8FCB26/Virginia-Woolf.jpg",
-      "favorites": false
+      "favorite": false
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "author": "Virginia Woolf",
       "group": "Poetry",
       "img": "https://cdn.britannica.com/q:60/54/90554-050-7E28D1ED/Oprah-Winfrey-The-Color-Purple.jpg",
-      "favorites": false
+      "favorite": false
     }
   ],
   "groups": [
